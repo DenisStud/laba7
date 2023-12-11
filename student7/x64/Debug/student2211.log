@@ -1,0 +1,27 @@
+﻿  MyForm.cpp
+C:\Users\jamed\source\repos\student\student5\MyForm.h(221,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(224,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(227,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(230,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(233,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(236,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(244,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(247,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(247,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(256,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(259,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(262,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(265,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(268,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(271,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(280,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(280,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(288,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(288,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(300,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(777,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\jamed\source\repos\student\student5\MyForm.h(935,65): warning C4101: e: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  student2211.vcxproj -> C:\Users\jamed\source\repos\student\student5\x64\Debug\student2211.exe
